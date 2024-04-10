@@ -1,0 +1,6 @@
+S = 1000.00
+n = 8
+w = [ 0.05 0.20 0.12 0.18 0.15 0.15 0.10 0.05 ]
+r = [ 0.10 0.01 0.05 0.02 0.02 0.05 0.01 0.03 ]
+Tasso di rendimento del portafoglio: 0.0296
+Valore finale del portafoglio: 1029.60
